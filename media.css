@@ -1,0 +1,13 @@
+@media (max-width: 720px) {
+	#nav-wraper {
+		position: static;
+		width: 90%;
+		height: 20rem;
+		margin: 1rem auto;
+	}
+	#main-wraper {
+		margin: 1rem auto;
+		padding: 0;
+		width: 90%;
+	}
+}
